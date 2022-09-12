@@ -1,0 +1,131 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid ee1bf054-e753-4f01-b783-aad49894fa0a)
+
+  (paper "B")
+
+  (title_block
+    (title "Thermo Meter")
+    (rev "01")
+    (company "Siavash Taher Parvar")
+    (comment 1 "Siavash Taher Parvar")
+    (comment 2 "Siavash Taher Parvar")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 8 "No Variant")
+    (comment 9 "N/A")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 50.8 139.7) (size 12.7 3.81)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 04c27975-f763-417c-a535-9b34aa89bddd)
+    (property "Sheet name" "MAIN SCHEMATIC" (id 0) (at 64.77 140.97 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[3] - MAIN SCHEMATIC.kicad_sch" (id 1) (at 64.77 140.97 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 50.8 147.32) (size 12.7 3.81)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0b9ed570-a4d3-4406-b0c8-a9fb3f182d2c)
+    (property "Sheet name" "MECHANICAL PARTS" (id 0) (at 64.77 148.59 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[4] - MECHANICAL PARTS.kicad_sch" (id 1) (at 64.77 148.59 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 50.8 154.94) (size 12.7 3.81)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0e7a03be-4b45-4022-aa4a-c725565c331e)
+    (property "Sheet name" "REVISION HISTORY" (id 0) (at 64.77 156.21 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[5] - REVISION HISTORY.kicad_sch" (id 1) (at 64.77 156.21 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 50.8 132.08) (size 12.7 3.81)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1518ecc4-a43b-485e-bd7f-808b68532a3c)
+    (property "Sheet name" "BLOCK DIAGRAM" (id 0) (at 64.77 133.35 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[2] - BLOCK DIAGRAM.kicad_sch" (id 1) (at 64.77 133.35 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/1518ecc4-a43b-485e-bd7f-808b68532a3c" (page "2"))
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd" (page "3"))
+    (path "/0b9ed570-a4d3-4406-b0c8-a9fb3f182d2c" (page "4"))
+    (path "/0e7a03be-4b45-4022-aa4a-c725565c331e" (page "5"))
+  )
+
+  (symbol_instances
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/16ad2f1d-57e6-4e82-9ed0-f84ffc5fa0e0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/9140bce5-b2fe-46f3-8b6a-031e64ffe507"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/b865c8ac-f91f-48a6-bef4-a6ad354b0329"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/c18dd11e-d2d5-4797-9012-aa4d78dd024a"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/dcdc0591-aca8-430a-922d-e0adc6c89318"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/e13d4c08-ad56-4ccb-a9dc-14c7f967e1aa"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/f0617134-bee8-4987-8ce0-eb3377d12e57"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/36ddd781-507d-405b-b2da-1f2b84c973e3"
+      (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/3df52d63-6279-4d41-aaa3-d3198ab80f0d"
+      (reference "C?") (unit 1) (value "1uF") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/cc65def6-175a-4946-b30d-b73f4c4b7b6e"
+      (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/fb988e88-13e6-4529-98e0-5e556479b0a6"
+      (reference "C?") (unit 1) (value "1uF") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/2c0d1367-5f19-4c0a-8593-1ac57b9f16f4"
+      (reference "J?") (unit 1) (value "XH_CONN_3POS_RA") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/2a9ab3a6-7f7f-4e44-96ff-18c241fb7baa"
+      (reference "R?") (unit 1) (value "4K7R") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/402da9ee-ee63-4128-9d1e-07703cb63127"
+      (reference "R?") (unit 1) (value "POT-10K") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/a698bae1-230b-4adf-a749-00fd80e7c127"
+      (reference "R?") (unit 1) (value "10KR") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/bb3eb834-0b84-45a0-a630-b567aedcd8f4"
+      (reference "R?") (unit 1) (value "10KR") (footprint "")
+    )
+    (path "/04c27975-f763-417c-a535-9b34aa89bddd/56312caa-122c-498a-9368-c3e93bafd615"
+      (reference "U?") (unit 1) (value "ATTINY13A-MMU") (footprint "")
+    )
+  )
+)
