@@ -217,7 +217,7 @@
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 4af75a38-d152-48a0-8438-6c4504b5fe59)
   )
-  (text "7SEGMENTS\n2 X 2DIGITS\nRED AND GREEN" (at 328.93 106.68 0)
+  (text "7SEGMENTS\n4 DIGITS" (at 334.01 106.68 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 4d706c84-ddb5-4b04-99d5-73693be8b434)
   )

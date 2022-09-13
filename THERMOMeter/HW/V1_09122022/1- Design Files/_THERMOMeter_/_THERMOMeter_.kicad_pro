@@ -309,7 +309,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "D:\\Projects\\SiavashTP\\OSSH\\ASM\\THERMOMeter\\HW\\V1_09122022\\1- Design Files\\_ProjectFiles_\\_ProjectTemplate_\\[3]- ANSI C Landscape.kicad_wks",
+    "page_layout_descr_file": "D:\\Projects\\SiavashTP\\OSSH\\ASM\\THERMOMeter\\HW\\V1_09122022\\1- Design Files\\_ProjectFiles_\\_ProjectTemplate_\\[3]- ANSI B Landscape.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
