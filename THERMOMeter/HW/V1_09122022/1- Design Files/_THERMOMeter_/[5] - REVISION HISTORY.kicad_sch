@@ -2,7 +2,17 @@
 
   (uuid 9b480628-3962-4ee7-b46f-b1588f212bcb)
 
-  (paper "A4")
+  (paper "B")
+
+  (title_block
+    (title "Thermo Meter")
+    (company "Siavash Taher Parvar")
+    (comment 1 "Siavash Taher Parvar")
+    (comment 2 "Siavash Taher Parvar")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 8 "No Variant")
+    (comment 9 "N/A")
+  )
 
   (lib_symbols
   )

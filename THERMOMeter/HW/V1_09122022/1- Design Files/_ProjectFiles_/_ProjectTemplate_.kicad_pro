@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "_THERMOMeter_.kicad_pro",
+    "filename": "_ProjectTemplate_.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -309,7 +309,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "D:\\Projects\\SiavashTP\\OSSH\\ASM\\THERMOMeter\\HW\\V1_09122022\\1- Design Files\\_ProjectFiles_\\ANSI B Landscape_Mend0z0.kicad_wks",
+    "page_layout_descr_file": "ANSI B Landscape_Mend0z0.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -318,24 +318,8 @@
   },
   "sheets": [
     [
-      "ee1bf054-e753-4f01-b783-aad49894fa0a",
+      "39487f7f-2888-4612-af95-bdaa6f66d4f7",
       ""
-    ],
-    [
-      "1518ecc4-a43b-485e-bd7f-808b68532a3c",
-      "BLOCK DIAGRAM"
-    ],
-    [
-      "04c27975-f763-417c-a535-9b34aa89bddd",
-      "MAIN SCHEMATIC"
-    ],
-    [
-      "0b9ed570-a4d3-4406-b0c8-a9fb3f182d2c",
-      "MECHANICAL PARTS"
-    ],
-    [
-      "0e7a03be-4b45-4022-aa4a-c725565c331e",
-      "REVISION HISTORY"
     ]
   ],
   "text_variables": {}
