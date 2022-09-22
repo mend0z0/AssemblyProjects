@@ -324,6 +324,22 @@
     [
       "30c62360-31af-472e-bb40-b81cb0c41488",
       "BLOCK DIAGRAM"
+    ],
+    [
+      "e1942211-7e8c-4fdd-9304-b1676f11a96d",
+      "MCU - PB"
+    ],
+    [
+      "8a1a8160-3a46-4dd0-8776-b98f6db52d82",
+      "SIG INPUT"
+    ],
+    [
+      "e55299d1-30aa-4b63-8587-d3a8fcfd8f63",
+      "7SEGMENT_LEDs_PWR"
+    ],
+    [
+      "f92a5770-78f2-4d82-ba25-57cc28d953dc",
+      "BIN CNTR LEDs"
     ]
   ],
   "text_variables": {}
