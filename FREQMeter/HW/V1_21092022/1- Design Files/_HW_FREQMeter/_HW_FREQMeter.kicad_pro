@@ -340,6 +340,14 @@
     [
       "f92a5770-78f2-4d82-ba25-57cc28d953dc",
       "BIN CNTR LEDs"
+    ],
+    [
+      "7642e4e7-6710-4c1a-bb46-cb8997f4a232",
+      "SIG INPUT BPF"
+    ],
+    [
+      "944dbb0b-ccbb-4563-b555-823cc0807ac2",
+      "SIG INPUT HPF"
     ]
   ],
   "text_variables": {}
