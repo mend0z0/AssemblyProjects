@@ -271,7 +271,7 @@
     (pin "14-UB" (uuid 6ff620d6-3587-4097-8304-4f07827ec7c5))
     (pin "4" (uuid 275268cc-f690-40c9-9dc0-eb63f0e3562e))
     (pin "5" (uuid aa5f2b08-86db-40b7-b834-84a75618b464))
-    (pin "6" (uuid 6058cb62-fab5-406c-a005-7524c87f5e99))
+    (pin "6" (uuid 4412eff5-237b-4346-bdbc-b6a1abc3ba05))
     (pin "7-UB" (uuid 860be496-4aff-4a54-9617-b0890c2d23a6))
     (pin "10" (uuid 147a545f-994d-45a3-ba4f-28abc6fc6e3e))
     (pin "14-UC" (uuid c2bbfc97-2ed8-4dfb-b61b-7af68336b278))

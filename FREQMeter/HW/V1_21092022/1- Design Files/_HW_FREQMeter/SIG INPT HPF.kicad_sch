@@ -271,7 +271,7 @@
     (pin "14-UB" (uuid b09770b5-3370-49fa-b30a-5b9f59ba08e5))
     (pin "4" (uuid 63cbcaf2-aff2-42e3-ad2c-f53b0d6f49a6))
     (pin "5" (uuid f5b90cff-11cf-421a-ab6d-6a102940c63b))
-    (pin "6" (uuid 51ecbf49-f8e1-4b5e-bed0-209dd7121110))
+    (pin "6" (uuid 51ecbf49-f8e1-4b5e-bed0-209dd7121111))
     (pin "7-UB" (uuid cc62b818-1847-4022-9b29-ffdf7942e280))
     (pin "10" (uuid 177cac1b-c748-423f-8ece-642344b2d03d))
     (pin "14-UC" (uuid 7d98b03c-7cd8-4b8c-aa89-c5ec3c055481))
@@ -281,7 +281,7 @@
     (pin "12" (uuid 078b99f5-8e7e-441a-9c12-fa83b43881d7))
     (pin "13" (uuid 7454564d-c2c2-476a-874f-da528f4aebc6))
     (pin "14-UD" (uuid d2a3e9d6-c524-4a27-9293-48895960e2a5))
-    (pin "6" (uuid 51ecbf49-f8e1-4b5e-bed0-209dd7121110))
+    (pin "6" (uuid 51ecbf49-f8e1-4b5e-bed0-209dd7121111))
     (pin "7-UD" (uuid 38076f51-3f66-4166-b2b4-72acfc4067ff))
   )
 
