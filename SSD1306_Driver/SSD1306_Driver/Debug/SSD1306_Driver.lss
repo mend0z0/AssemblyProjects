@@ -1,0 +1,6 @@
+
+AVRASM ver. 2.2.8  D:\Projects\SiavashTP\OSSH\ASM\SSD1306_Driver\SSD1306_Driver\main.asm Sat Oct 15 02:01:46 2022
+
+[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.10.348\avrasm\inc\tn13Adef.inc'
+D:\Projects\SiavashTP\OSSH\ASM\SSD1306_Driver\SSD1306_Driver\main.asm(8): error: timeDelay: Unknown instruction or macro
+D:\Projects\SiavashTP\OSSH\ASM\SSD1306_Driver\SSD1306_Driver\main.asm(8): error: Invalid directive: '.req'
